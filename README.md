@@ -1,2 +1,2 @@
-# Data-Strutcures-C_ITBANK
-아이티뱅크 자료구조 수업 학습 코드
+# Data-Strutcures-C
+C 언어를 이용한 자료구조
